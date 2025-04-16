@@ -23,4 +23,3 @@ int main(int argc, char *argv[])
   viewer.launch();
   return 0;
 }
-
